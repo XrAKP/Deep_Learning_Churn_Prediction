@@ -63,12 +63,14 @@ jupyter notebook notebooks/Deep_Learning_Churn_Prediction.ipynb
 ### 📊 Results
 predictions and visualisation on random test run.
 
-<img width="1038" height="432" alt="Screenshot 2025-10-27 202247" src="https://github.com/user-attachments/assets/114413ad-34c9-428d-acfc-e8c197516324" />
-<img width="556" height="413" alt="download" src="https://github.com/user-attachments/assets/d70249c9-e7d8-4001-a5c3-f1162544834c" />
+<img width="1038" height="432" alt="Screenshot 2025-10-27 202247" src="https://github.com/user-attachments/assets/a99aa773-a995-497b-acf2-425de69c3949" />
+<img width="556" height="413" alt="download" src="https://github.com/user-attachments/assets/d5e59acd-6ceb-4c4a-b7c5-d5412445f395" />
+
 
 ---
 
 ### 📚 Dependencies
 See requirements.txt for the full list.
+
 
 
